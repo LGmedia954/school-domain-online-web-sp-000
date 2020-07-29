@@ -6,13 +6,10 @@ class School
   
   def initialize(school_name)
     @school_name = school_name
-    roster = {[]}
-    
-   hash["new_key"] = []
-   hash["new_key"] << "new_value_for_value_array"
- 
-hash
+  end
   
+  def roster
+    roster = {[]}
   end
   
   def add_student(student_name, grade)

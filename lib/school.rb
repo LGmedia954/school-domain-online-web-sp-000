@@ -1,4 +1,4 @@
-attr_accessor :school_name :roster :student_name :grade
+attr_accessor :school_name :roster
 
 
 

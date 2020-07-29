@@ -1,3 +1,7 @@
+attr_accessor :student :roster
+
+
+
 class School
   
   def initialize(school_name)
